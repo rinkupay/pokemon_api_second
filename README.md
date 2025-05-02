@@ -114,8 +114,8 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/rinkupay/pokemon_api.git
-cd pokemon_api
+git clone https://github.com/rinkupay/pokemon_api_second
+cd pokemon_api_second
 
 # Install dependencies
 npm install
@@ -126,5 +126,5 @@ npm run dev
 
 
 6. Deployed in vercel 
- hosted link : https://pokemon-api-two-gamma.vercel.app/
+ hosted link : https://pokemon-api-second.vercel.app/
 
