@@ -42,6 +42,10 @@ PokéAPI	Public API for Pokémon data
 bash
 Copy
 Edit
+
+
+
+
 src/
 │
 ├── components/
@@ -55,10 +59,10 @@ src/
 │   │   └── Loader.tsx   # Loading spinner
 │
 ├── pages/
-│   └── Lists.tsx   
+│   └── Lists.tsx   # Main page displaying Pokémon list, filters, search, pagination
 │   └── ComparePage.tsx 
 │   └── DetailedView.tsx 
-│   └── FavoriteLists.tsx     # Main page displaying Pokémon list, filters, search, pagination
+│   └── FavoriteLists.tsx     
 │
 └── App.tsx              # Application routes
 └── index.tsx            # React root entry point
